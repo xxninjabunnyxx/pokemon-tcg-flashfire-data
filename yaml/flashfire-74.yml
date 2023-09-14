@@ -1,0 +1,95 @@
+---
+id: xy2-74
+name: Goodra
+supertype: Pokémon
+subtypes:
+- Stage 2
+hp: '150'
+types:
+- Dragon
+evolvesFrom: Sliggoo
+abilities:
+- name: Gooey Regeneration
+  text: As often as you like during your turn (before your attack), you may discard
+    an Energy attached to this Pokémon. If you do, heal 60 damage from this Pokémon.
+  type: Ability
+attacks:
+- name: Heavy Whip
+  cost:
+  - Water
+  - Fairy
+  - Colorless
+  convertedEnergyCost: 3
+  damage: 80+
+  text: Flip a coin. If heads, this attack does 40 more damage.
+weaknesses:
+- type: Fairy
+  value: "×2"
+retreatCost:
+- Colorless
+- Colorless
+- Colorless
+convertedRetreatCost: 3
+set:
+  id: xy2
+  name: Flashfire
+  series: XY
+  printedTotal: 106
+  total: 110
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: FLF
+  releaseDate: 2014/05/07
+  updatedAt: 2018/03/04 10:35:00
+  images:
+    symbol: https://images.pokemontcg.io/xy2/symbol.png
+    logo: https://images.pokemontcg.io/xy2/logo.png
+number: '74'
+artist: 5ban Graphics
+rarity: Rare Holo
+flavorText: This very friendly Dragon-type Pokémon will hug its beloved Trainer, leaving
+  that Trainer covered in sticky slime.
+nationalPokedexNumbers:
+- 706
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/xy2/74.png
+  large: https://images.pokemontcg.io/xy2/74_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/xy2-74
+  updatedAt: 2023/09/14
+  prices:
+    holofoil:
+      low: 0.2
+      mid: 0.62
+      high: 2.49
+      market: 0.6
+      directLow: 
+    reverseHolofoil:
+      low: 0.4
+      mid: 0.7
+      high: 1.95
+      market: 0.95
+      directLow: 0.41
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/xy2-74
+  updatedAt: 2023/09/14
+  prices:
+    averageSellPrice: 0.18
+    lowPrice: 0.25
+    trendPrice: 0.9
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.25
+    reverseHoloTrend: 1.8
+    lowPriceExPlus: 0.25
+    avg1: 0.18
+    avg7: 0.94
+    avg30: 1.08
+    reverseHoloAvg1: 1.5
+    reverseHoloAvg7: 1.61
+    reverseHoloAvg30: 1.53
